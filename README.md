@@ -1,6 +1,6 @@
 # 👤 About Me
 
-Hey there! 👋 I'm Kyrylo, a web developer from Ukraine with over 2 years of experience in crafting the digital realm. I'm always excited about the ever-evolving landscape of front-end development. Whether it's Vue.js, Next.js, or experimenting with new tools, I'm passionate about staying at the forefront of web technologies.
+Hey there! 👋 I'm Kyrylo, a front-end developer from Ukraine with over 2 years of experience in web-development. I'm always excited about the ever-evolving landscape of front-end development. Whether it's Vue.js, Next.js, or experimenting with new tools, I'm passionate about staying at the forefront of web technologies.
 
 ## 👨‍💻 Tech Stack
 
